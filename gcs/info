@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de GECOS v2
+# Fichero de configuración de paquetes de personalización de GECOS
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: gecosws-mint-artwork-common-conf
@@ -14,10 +14,10 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Gecos v2 meta package which modifies the mint-artwork-common package."
+shortdesc: "GECOS meta package which modifies the mint-artwork package."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "This metapackage modifies pixmaps from LM 13."
+longdesc: "This metapackage modifies pixmaps from LM."
 
 
 # Versión del paquete
@@ -26,3 +26,4 @@ version: 2.0
 # Cambios en esta versión
 changes:
     - Initial release.
+    - Updated to GECOS V4.
